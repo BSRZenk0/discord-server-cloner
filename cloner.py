@@ -33,7 +33,7 @@ from datetime import datetime
 import json
 
 
-secret_key = 'bWFkZSBieSBsb25lIzQyNzkgKG9uIGNvcmQp' # do not remove really important
+
 
 
 os.system("cls || clear")
